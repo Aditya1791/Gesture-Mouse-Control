@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proton Assistant</title>
+    <script type="text/javascript" src="/eel.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/jquery.convform.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header bar -->
+        <header class="app-header">
+            <div class="brand">
+                <div class="logo-pulse">
+                    <img src="images/icon.png" alt="Proton" onerror="this.style.display='none'">
+                </div>
+                <div class="title-group">
+                    <span class="app-title">Proton Assistant</span>
+                    <span class="status-indicator"><span class="pulse-dot"></span> Ready</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Message List Container -->
+        <main class="chat-viewport">
+            <div id="messages" class="messages-container">
+                <!-- Messages appended dynamically -->
+            </div>
+        </main>
+
+        <!-- Input Bar -->
+        <footer class="input-bar">
+            <div class="input-wrapper">
+                <input type="text" id="userInput" placeholder="Type command or text here..." autocomplete="off">
+                <button id="userInputButton" type="button" aria-label="Send">
+                    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+        </footer>
+    </div>
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
