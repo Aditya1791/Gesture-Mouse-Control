@@ -14,8 +14,6 @@
 
 <br/>
 
-[🎥 **Watch YouTube Video Demonstration**](https://www.youtube.com/watch?v=ufm6tfgo-OA)
-
 ---
 
 </div>
@@ -208,10 +206,7 @@ graph TD
 
 | Collaborator | Links |
 | :--- | :--- |
-| **Nishiket Bidawat** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/xenon-19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishiket-bidawat-74b419193/) |
-| **Viral Doshi** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Viral-Doshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viral-doshi-5a7737190/) |
-| **Ankit Sharma** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ankit-4129) |
-| **Parth Sakariya** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/parth-12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sakariya-1886b2193/) |
+| **Aditya Ranjan Swain** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([https://github.com/xenon-19](https://github.com/Aditya1791)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nishiket-bidawat-74b419193/](https://www.linkedin.com/in/aditya-ranjan-swain/)) |
 
 ---
 
